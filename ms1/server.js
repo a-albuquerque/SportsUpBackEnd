@@ -52,7 +52,7 @@ app.post("/add-person", (req, res) => {
     participants: [],
   });
 
-  // const user = new User({
+  //  const user = new User({
   //  fullname: "Person A",
   //  md5_password_hash: "Password Hashed",
   //  date_of_birth: "2001-03-15",
